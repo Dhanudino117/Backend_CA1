@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const dotenv = process.env("dotenv");
+
 port = 5000;
 app.use(express.json());
 
